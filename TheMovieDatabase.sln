@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMovieDatabase", "TheMovieDatabase\TheMovieDatabase.csproj", "{787048A9-0AFA-4C89-9442-0D53A5710030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787048A9-0AFA-4C89-9442-0D53A5710030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787048A9-0AFA-4C89-9442-0D53A5710030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787048A9-0AFA-4C89-9442-0D53A5710030}.Debug|x64.ActiveCfg = Debug|x64
+		{787048A9-0AFA-4C89-9442-0D53A5710030}.Debug|x64.Build.0 = Debug|x64
+		{787048A9-0AFA-4C89-9442-0D53A5710030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787048A9-0AFA-4C89-9442-0D53A5710030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787048A9-0AFA-4C89-9442-0D53A5710030}.Release|x64.ActiveCfg = Release|x64
+		{787048A9-0AFA-4C89-9442-0D53A5710030}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E95C17F4-DA75-431D-8295-0CB36D7BF98C}
+	EndGlobalSection
+EndGlobal
